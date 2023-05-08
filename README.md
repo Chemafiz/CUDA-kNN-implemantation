@@ -1,3 +1,5 @@
+- [Implementation of kNN algorithm using CUDA](https://github.com/Chemafiz/CUDA-kNN-implemantation](https://github.com/Chemafiz/CUDA-kNN-implemantation/blob/main/kNN%20algorithm%20implementation%20-%20analysis.pdf)
+
 k-Nearest Neighbors (kNN) algorithm is a popular machine learning algorithm used
 for classification and regression tasks. The basic idea behind kNN is to identify the k
 nearest data points to a given test sample and make predictions based on the
