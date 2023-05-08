@@ -1,5 +1,4 @@
-### k-Nearest Neighbors (kNN)
-1 algorithm is a popular machine learning algorithm used
+k-Nearest Neighbors (kNN) algorithm is a popular machine learning algorithm used
 for classification and regression tasks. The basic idea behind kNN is to identify the k
 nearest data points to a given test sample and make predictions based on the
 majority class of the nearest neighbors. Implementing the algorithm on CPU can be
